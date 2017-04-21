@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 7d18163777fa258438ea1b5b1a8ef05f
+timeCreated: 1468869757
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HeroShotAndWalk_0
+    21300002: HeroShotAndWalk_1
+    21300004: HeroShotAndWalk_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: HeroShotAndWalk_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 7
+        width: 261
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.5, y: -123.5}
+        - {x: -22.5, y: -123.5}
+        - {x: -9.5, y: -58.5}
+        - {x: 130.5, y: -66.5}
+        - {x: 130.5, y: 73.5}
+        - {x: 4.5, y: 123.5}
+        - {x: -84.5, y: 123.5}
+        - {x: -92.5, y: 121.5}
+        - {x: -130.5, y: 27.5}
+        - {x: -130.5, y: -37.5}
+        - {x: -109.5, y: -123.5}
+        - {x: -66.5, y: -123.5}
+        - {x: -65.5, y: -121.5}
+        - {x: -64.5, y: -112.5}
+        - {x: -64.5, y: -120.5}
+    - name: HeroShotAndWalk_1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2
+        width: 256
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: -82}
+        - {x: -76, y: -77}
+        - {x: -75, y: -73}
+        - {x: -76, y: -109}
+        - {x: -73, y: -113}
+        - {x: -55, y: -121}
+        - {x: -15, y: -121}
+        - {x: 109, y: -64}
+        - {x: 126, y: -20}
+        - {x: 126, y: 58}
+        - {x: 94, y: 114}
+        - {x: 35, y: 121}
+        - {x: -81, y: 121}
+        - {x: -128, y: 80}
+        - {x: -128, y: -121}
+        - {x: -77, y: -121}
+        - {x: -76, y: -119}
+        - {x: -76, y: -111}
+        - {x: -78, y: -106}
+      - - {x: 125, y: -25}
+        - {x: 127, y: -27}
+        - {x: 128, y: -27}
+        - {x: 128, y: -22}
+        - {x: 126, y: -22}
+      - - {x: 121, y: 16}
+        - {x: 123, y: 14}
+        - {x: 126, y: 15}
+        - {x: 126, y: 18}
+        - {x: 124, y: 20}
+        - {x: 121, y: 19}
+    - name: HeroShotAndWalk_2
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 9
+        width: 242
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 121.5}
+        - {x: -78, y: 121.5}
+        - {x: -110, y: 112.5}
+        - {x: -120, y: 66.5}
+        - {x: -120, y: -33.5}
+        - {x: -89, y: -111.5}
+        - {x: -85, y: -113.5}
+        - {x: -52, y: -113.5}
+        - {x: -49, y: -109.5}
+        - {x: -48, y: -100.5}
+        - {x: -48, y: -105.5}
+        - {x: -51, y: -119.5}
+        - {x: -49, y: -121.5}
+        - {x: 15, y: -121.5}
+        - {x: 121, y: 5.5}
+        - {x: 121, y: 68.5}
+      - - {x: -108, y: -63.5}
+        - {x: -112, y: -63.5}
+        - {x: -113, y: -65.5}
+        - {x: -113, y: -69.5}
+        - {x: -111, y: -70.5}
+        - {x: -107, y: -70.5}
+        - {x: -106, y: -68.5}
+        - {x: -106, y: -64.5}
+      - - {x: -121, y: 21.5}
+        - {x: -118, y: 22.5}
+        - {x: -118, y: 26.5}
+        - {x: -120, y: 28.5}
+        - {x: -121, y: 28.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

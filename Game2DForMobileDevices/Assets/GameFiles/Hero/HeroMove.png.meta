@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: fea70b9527c7ea543ae4a36676cf88ae
+timeCreated: 1474674206
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HeroMove_0
+    21300002: HeroMove_1
+    21300004: HeroMove_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: HeroMove_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3
+        width: 140
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -82}
+        - {x: 5, y: -87}
+        - {x: 4, y: -123}
+        - {x: 6, y: -126}
+        - {x: 50, y: -126}
+        - {x: 70, y: -45}
+        - {x: 70, y: 50}
+        - {x: 15, y: 126}
+        - {x: -43, y: 126}
+        - {x: -70, y: 58}
+        - {x: -70, y: -92}
+        - {x: -45, y: -126}
+        - {x: 2, y: -126}
+        - {x: 3, y: -124}
+        - {x: 3, y: -116}
+        - {x: 4, y: -87}
+    - name: HeroMove_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 146
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 128}
+        - {x: -27, y: 128}
+        - {x: -73, y: 53}
+        - {x: -73, y: -110}
+        - {x: -69, y: -128}
+        - {x: 36, y: -128}
+        - {x: 71, y: -43}
+        - {x: 73, y: -28}
+        - {x: 73, y: 35}
+    - name: HeroMove_2
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 0
+        width: 138
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -107}
+        - {x: 11, y: -102}
+        - {x: 13, y: -87}
+        - {x: 13, y: -79}
+        - {x: 10, y: -75}
+        - {x: 10, y: -71}
+        - {x: 11, y: -75}
+        - {x: 14, y: -79}
+        - {x: 13, y: -81}
+        - {x: 15, y: -86}
+        - {x: 14, y: -99}
+        - {x: 15, y: -100}
+        - {x: 15, y: -109}
+        - {x: 19, y: -114}
+        - {x: 54, y: -117}
+        - {x: 62, y: -59}
+        - {x: 69, y: -44}
+        - {x: 69, y: 74}
+        - {x: 18, y: 127}
+        - {x: -62, y: 127}
+        - {x: -69, y: 78}
+        - {x: -69, y: -71}
+        - {x: -24, y: -127}
+        - {x: 16, y: -127}
+        - {x: 27, y: -121}
+        - {x: 17, y: -113}
+        - {x: 14, y: -109}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
